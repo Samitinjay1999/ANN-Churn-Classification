@@ -1,0 +1,4 @@
+tensorflow==2.16.1
+scikit-learn
+streamlit
+python==3.12.4
